@@ -22,29 +22,54 @@ poznámky k Czechitas Workshopu 10.10.2020 @VŠB
 
 * 
 * Datový sklad /datový rybník
+    * denormalizovaná data VS 3. NF
     * ETL, logs (auditní záznamy)
+    * Architektura
+        * source systems
+        * stage
+        * presentation
+            * datamarts
+        * access tools
+            * Power BI
+            * Tablou
+            * Google Data Studio 
     * 
-* Business Intelligence 
-    * Fact Tables (transakce)
+* Business Intelligence / Kimball model
+    * Fact Tables (konkrétní business proces, 1 řádek = událost/transakce, hodnoty (fakta) jsou aditivní!)
         * prodej
         * nákup
         * zkouška
         * ...
-    * Dimensional Tables + historizace
+    * Dimensional Tables (5W), dodávají kontext FT
         * čas
         * místo
         * organizační struktura
         * produktový katalog
         * ...
-    * KPI
+        * historizace
+    * Star / Snowflake
     * Změna chování rozhodovatelů na základě ... ?
     *
+* Zákazník/uživatel (strategické rozhodování)
+    * Jak poznáte, že se blíží problém?
+    * Jak poznáte, že to co děláte, děláte dobře?
+    * Podle čeho jste hodnoceni?
+    * ...
+    * KPI
 * Čištění dat
 * Transformace dat (tidy dataset)
+* Datové modelování
+* ML, experimenty, ...
+* Data Science Team
+    * Data Engineer
+    * Data Analyst
+    * Data Scientist
 * Data katalog
-* Data xxx (popis konkrétního datasetu)
+* Data Governance - kdo je zodpovědný za který datový zdroj
+* Code book (popis konkrétního datasetu)
 * Nástroje
     * Python (+ Pandas), R
+    * Markdown
     * git
     * Linux
     * CLI/shell/bash/...
