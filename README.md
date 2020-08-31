@@ -22,15 +22,27 @@ poznámky k Czechitas Workshopu 10.10.2020 @VŠB
 
 * 
 * Datový sklad /datový rybník
-    * ETL
+    * ETL, logs (auditní záznamy)
     * 
 * Business Intelligence 
-    * Fact Tables / Dimensional Tables + historizace
+    * Fact Tables (transakce)
+        * prodej
+        * nákup
+        * zkouška
+        * ...
+    * Dimensional Tables + historizace
+        * čas
+        * místo
+        * organizační struktura
+        * produktový katalog
+        * ...
     * KPI
     * Změna chování rozhodovatelů na základě ... ?
     *
 * Čištění dat
 * Transformace dat (tidy dataset)
+* Data katalog
+* Data xxx (popis konkrétního datasetu)
 * Nástroje
     * Python (+ Pandas), R
     * git
