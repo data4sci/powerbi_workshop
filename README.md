@@ -32,9 +32,19 @@ poznámky k Czechitas Workshopu 10.10.2020 @VŠB
 * Čištění dat
 * Transformace dat (tidy dataset)
 * Nástroje
-    * Python, R
+    * Python (+ Pandas), R
     * git
     * Linux
     * CLI/shell/bash/...
     * SQL, NoSQL (Cypher)
     * 
+* platformy
+    * AWS
+    * Google Cloud Platform 
+    * Microsoft Azure
+*
+*
+* diskuze ke každému podtématu
+
+
+
