@@ -18,4 +18,23 @@ poznámky k Czechitas Workshopu 10.10.2020 @VŠB
 * účet <GitHub.com>
 * účet <kaggle.com>
 
+## Agenda
 
+* 
+* Datový sklad /datový rybník
+    * ETL
+    * 
+* Business Intelligence 
+    * Fact Tables / Dimensional Tables + historizace
+    * KPI
+    * Změna chování rozhodovatelů na základě ... ?
+    *
+* Čištění dat
+* Transformace dat (tidy dataset)
+* Nástroje
+    * Python, R
+    * git
+    * Linux
+    * CLI/shell/bash/...
+    * SQL, NoSQL (Cypher)
+    * 
