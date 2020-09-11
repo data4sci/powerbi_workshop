@@ -1,5 +1,6 @@
 # powerbi_workshop
 poznámky k Czechitas Workshopu 10.10.2020 @VŠB
+
 <https://www.czechitas.cz/cs/kalendar-akci/akce/22821/?utm_source=Czechitas+Newsletter&utm_campaign=a835eb617f-czechitas+newsletter+09+2020&utm_medium=email&utm_term=0_443df25591-a835eb617f-175053417>
 
 ## TODO
