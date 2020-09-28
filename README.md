@@ -22,7 +22,8 @@ poznámky k Czechitas Workshopu 10.10.2020 @VŠB
 
 ## Agenda
 
-* 
+* něco z prezentace SLU (data science)
+* git
 * Datový sklad /datový rybník
     * denormalizovaná data VS 3. NF
     * ETL, logs (auditní záznamy)
